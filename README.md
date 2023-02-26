@@ -72,6 +72,6 @@ Xiaomi: Xiaomi 11 Lite 5G NE / 11 Lite NE 5G / Mi 11 LE
 Xiaomi: 11 Lite 5G NE 
 ```
 
-first 4 lines are exact matches - i.e. phones that were found in both lists. Following line pairs is tools attempt to find lines where at least 75% of the words from one string have a match in a second string (as could be seen by the last match).
+first 4 lines are exact matches - i.e. phones that were found in both lists. Following line pairs is tool's attempt to find lines where at least 75% of the words from one string have a match in a second string (as could be seen by the last match).
 
 unfortunately that produces a rather "noisy" output, however it does help to narrow down the search significantly.
