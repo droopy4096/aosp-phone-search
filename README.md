@@ -10,6 +10,7 @@ create directories for storing data:
 
 ```shell
 mkdir -p data/{inputs,outputs}
+pip install -r requirements.txt
 ```
 
 ## Get list of phones from GSM Arena
